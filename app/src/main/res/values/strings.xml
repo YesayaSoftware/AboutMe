@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Yesaya R. Athuman</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="some_long_text">
+        Hi, my name is Yesaya\n\n
+
+        The courses in this section will teach you the fundamentals of Android development
+        including\n\n
+
+        Android Studio, activities, activity lifecycle, activity interaction with intents, UI layout design,
+        debugging, automated testing, Android Support Libraries, Gradle, and more. \n\n
+
+        These courses will give the foundation necessary to move to the intermediate level.
+
+        These courses build on the Android fundamentals you learned in the previous section to teach you the skills
+        necessary to provide a rich application experience that leverages the many features and capabilities of the
+        Android platform.\n\n
+
+        Topics covered include RecyclerView, CardView, NavigationDrawer, options menus, app bar actions, styles, themes,
+        preferences, SQLite, content providers, notifications, PendingIntent, and more.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
